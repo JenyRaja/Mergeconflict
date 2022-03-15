@@ -1,2 +1,3 @@
-This is firsyt line
-Added new second line updated
+This is first line
+New second line wasupdated
+
